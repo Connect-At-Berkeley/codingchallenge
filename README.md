@@ -1,13 +1,13 @@
 # Connect@Cal Coding Challenge Spring 2021 Recruitment
 
-What you need installed first:
+**What you need installed first:**
 * Python 3 (https://www.python.org/downloads/)
 * Virtualenv (https://virtualenv.pypa.io/en/latest/installation.html)
 * A Coding Editor (we recommend Visual Studio: https://visualstudio.microsoft.com/)
 * Git
 * GitHub Account
 
-Steps for getting set up:
+**Steps for getting set up:**
 1) [Fork this repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 
 2) Clone your github repo into your working directory:
@@ -54,7 +54,7 @@ flask run
 Here is a quick video demonstrating how to set up this repo that follows the exact same steps above:
 <INSERT YOUTUBE LINK>
 
-Starting the Challenge:
+**Starting the Challenge:**
 1) Look over the source code and familiarize yourself with the general structure
 2) Look at the /tasks folder to see a list of markdown files where each markdown file corresponds to a task
 3) Start with the first task and finish each following task sequentially
