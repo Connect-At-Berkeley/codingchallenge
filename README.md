@@ -52,7 +52,7 @@ flask run
 9) Navigate to a browser and navigate to http://127.0.0.1:5000/
 
 Here is a quick video demonstrating how to set up this repo that follows the exact same steps above:
-<INSERT YOUTUBE LINK>
+(TBD INSERT YOUTUBE LINK)
 
 **Starting the Challenge:**
 1) Look over the source code and familiarize yourself with the general structure
