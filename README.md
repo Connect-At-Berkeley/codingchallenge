@@ -68,17 +68,7 @@ or CTRL-C.
 3) Start with the first task and finish each following task sequentially
 4) The code you need to write for each Task will be clearly denoted by:
 ```
-# TODO: <TASK NUMBER>
-```
-5) Test each of your tasks.
-Individual test:
-```
-python -m unittest tests/task_<TASK NUMBER>
-```
-
-All tests:
-```
-python -m unittest
+# BEGIN TASK <TASK NUMBER>
 ```
 
 # Submission Process
