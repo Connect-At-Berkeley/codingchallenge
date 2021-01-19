@@ -56,9 +56,6 @@ flask run
 
 9) Navigate to a browser and navigate to http://127.0.0.1:5000/
 
-Here is a quick video demonstrating how to set up this repo that follows the exact same steps above:
-(TBD INSERT YOUTUBE LINK)
-
 To deactivate your virtual environment, all you need to do is type 
 ```
 deactivate
@@ -85,7 +82,9 @@ python -m unittest
 ```
 
 # Submission Process
-TBD (will be google form)
+Look at submission.md for more details. 
+
+Submission form: https://forms.gle/Cn53H7geLX2JqT5H9
 
 # Helpful Resources
 We don't expect you to know how to do this from the get go. 
@@ -113,4 +112,4 @@ Rest assured, we will look at all of your code and comments.
 
 # Have Questions?
 Come over to our office hours at:
-TBD (will email zoom link + info individually to prevent zoom bombing)
+- Fridays (4 - 6 PM PST): https://berkeley.zoom.us/j/91407780777?pwd=WTk2ZFcxRXNKYXVEQSt3a1pjYldCQT09

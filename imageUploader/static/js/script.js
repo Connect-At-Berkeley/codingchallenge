@@ -16,7 +16,13 @@ $(document).ready(function() {
         Look into AJAX calls in jQuery: https://api.jquery.com/jquery.ajax/
     /* 
     /* Example of an AJAX request */
-    
-    
+    // .post('/submit_image', {
+    //     text: "hello world"
+    //   }, function(data) {
+    //     console.log("Just made a POST Request :)");
+    //     call_a_function(current_text);
+    //     return false;
+    //   }, 'json');
+
     /* END TASK 1 */
 })
