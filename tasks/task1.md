@@ -22,7 +22,7 @@ Some questions to think about:
 * How can we append to our existing HTML and save that state (in other words, when we refresh our webpage, our images should still be listed out)
 
 ## Testing
-In addition to directly testing your API endpoint by loading up your test server after each changes, you can use PostMan to test your API Endpoint. 
+In addition to directly testing your API endpoint by testing your server on localhost after each changes, you can use PostMan to test your API Endpoint. 
 
 ## Goals
 We want to be able to upload images and display them to the website in order of how it was uploaded. 
