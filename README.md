@@ -1,5 +1,13 @@
 # Connect@Cal Coding Challenge Spring 2021 Recruitment
 
+For this coding challenge, you'll create a web app that allows users to upload images. Upon uploading an image, the webapp will add the image to the bottom of the HTML Page. For example, if a user uploads images a, b, c, the webpage should show:
+```
+<file upload button>
+<image a>
+<image b>
+<image c>
+```
+
 **What you need installed first:**
 * Python 3 (https://www.python.org/downloads/)
 * Virtualenv (https://virtualenv.pypa.io/en/latest/installation.html)
