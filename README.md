@@ -41,10 +41,15 @@ pip3 install -r requirements.txt
 
 7)
 ```
-export FLASK_APP=app.py
+cd imageUploader
 ```
 
 8)
+```
+export FLASK_APP=app.py
+```
+
+9)
 ```
 flask run
 ```
@@ -53,6 +58,12 @@ flask run
 
 Here is a quick video demonstrating how to set up this repo that follows the exact same steps above:
 (TBD INSERT YOUTUBE LINK)
+
+To deactivate your virtual environment, all you need to do is type 
+```
+deactivate
+```
+or CTRL-C. 
 
 **Starting the Challenge:**
 1) Look over the source code and familiarize yourself with the general structure
