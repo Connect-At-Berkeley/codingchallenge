@@ -3,6 +3,14 @@
 ## Steps
 For this task, we want to create an API Endpoint for uploading images and a way so that whenever a new image is uploaded, it's shown on our webpage automatically w/o the user needing to refresh the page.
 
+For example, if a user uploads images a, b, c, the webpage should show:
+```
+<file upload button>
+<image a>
+<image b>
+<image c>
+```
+
 See places where there is "TASK 1" in comments in `templates/index.html`, `app.py`, and `static/js/script.js`.
 
 We recommend first looking at all the files to think about where to start first. 
