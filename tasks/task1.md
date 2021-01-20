@@ -3,6 +3,8 @@
 ## Steps
 For this task, we want to create an API Endpoint for uploading images and a way so that whenever a new image is uploaded, it's shown on our webpage automatically w/o the user needing to refresh the page.
 
+**Upon refresh, past image uploads should still persist on the webpage.**
+
 For example, if a user uploads images a, b, c, the webpage should show:
 ```
 <file upload button>
@@ -26,6 +28,8 @@ In addition to directly testing your API endpoint by testing your server on loca
 
 ## Goals
 We want to be able to upload images and display them to the website in order of how it was uploaded. 
+
+**Upon refresh, past image uploads should still persist on the webpage.**
 
 The design of how it looks on the website is up to you!
 
