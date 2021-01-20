@@ -34,7 +34,7 @@ In the optional Task 2, you'll have a chance to style your webpage to your likin
 ## Things to consider
 Think about different edge cases:
 * How do we only allow images (jpg, pngs, etc.) to be uploaded? (Ex: what happens if a user uploads a file)
-* What if a user upoads a really large image?
+* What if a user uploads a really large image?
 * What if our API endpoint fails or cannot process an image?
 * Where do we store uploaded images on our server?
 * Should our Endpoint be a GET or POST request?
