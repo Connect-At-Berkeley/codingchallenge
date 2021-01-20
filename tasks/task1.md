@@ -3,6 +3,14 @@
 ## Steps
 For this task, we want to create an API Endpoint for uploading images and a way so that whenever a new image is uploaded, it's shown on our webpage automatically w/o the user needing to refresh the page.
 
+For example, if a user uploads images a, b, c, the webpage should show:
+```
+<file upload button>
+<image a>
+<image b>
+<image c>
+```
+
 See places where there is "TASK 1" in comments in `templates/index.html`, `app.py`, and `static/js/script.js`.
 
 We recommend first looking at all the files to think about where to start first. 
@@ -14,7 +22,7 @@ Some questions to think about:
 * How can we append to our existing HTML and save that state (in other words, when we refresh our webpage, our images should still be listed out)
 
 ## Testing
-In addition to directly testing your API endpoint by loading up your test server after each changes, you can use PostMan to test your API Endpoint. 
+In addition to directly testing your API endpoint by testing your server on localhost after each changes, you can use PostMan to test your API Endpoint. 
 
 ## Goals
 We want to be able to upload images and display them to the website in order of how it was uploaded. 
