@@ -1,5 +1,7 @@
 # Connect@Cal Coding Challenge Spring 2021 Recruitment
 
+Due Date: February 11, 2021 11:59 PM PST
+
 For this coding challenge, you'll create a web app that allows users to upload images. Upon uploading an image, the webapp will add the image to the bottom of the HTML Page. For example, if a user uploads images a, b, c, the webpage should show:
 ```
 <file upload button>
