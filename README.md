@@ -112,4 +112,4 @@ Rest assured, we will look at all of your code and comments.
 
 # Have Questions?
 Come over to our office hours at:
-- Fridays (4 - 6 PM PST): https://berkeley.zoom.us/j/91407780777?pwd=WTk2ZFcxRXNKYXVEQSt3a1pjYldCQT09
+- Fridays (4 - 5 PM PST): https://berkeley.zoom.us/j/91407780777?pwd=WTk2ZFcxRXNKYXVEQSt3a1pjYldCQT09
